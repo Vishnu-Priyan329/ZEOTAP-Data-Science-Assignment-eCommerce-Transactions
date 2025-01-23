@@ -44,6 +44,7 @@ Comprehensive data analysis project exploring customer behavior through advanced
 ## Installation
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 # E-Commerce Customer Analytics Project
 
 ## Overview
